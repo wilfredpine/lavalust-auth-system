@@ -1,0 +1,20 @@
+.DS_Store
+
+app/vendor/*
+app/config/email_config.php
+
+runtime/*
+!runtime/.htaccess
+!runtime/index.html
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
