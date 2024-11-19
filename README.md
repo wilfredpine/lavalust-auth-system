@@ -27,7 +27,7 @@ A sample implementation of built-in security features and authentication system 
 
 ## Thanks me by
 
-Following [wilfredpine](https://github.com/wilfredpine/wilfredpine)
+Following [wilfredpine](https://github.com/wilfredpine/)
 
 Starred & Forked [lavalust-auth-system](https://github.com/wilfredpine/lavalust-auth-system)
 
