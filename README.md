@@ -19,12 +19,12 @@ A sample implementation of built-in security features and authentication system 
 - rename `app/config/email_config_dev.php` to `email_config.php`
 - browse `http://localhost/lavalust_auth_system`
 
-### Want to learn PHP & LavaLust?
+## Want to learn PHP & LavaLust?
 
 [LavaLust Tutorial](https://github.com/ronmarasigan/LavaLust)
 [YouTube](https://www.youtube.com/@confired-official/)
 
-#### Thanks me by
+## Thanks me by
 
 Follow [wilfredpine](https://github.com/wilfredpine/wilfredpine)
 
