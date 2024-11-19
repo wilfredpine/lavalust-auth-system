@@ -37,3 +37,10 @@ Following [ronmarasigan](https://github.com/ronmarasigan)
 Starred & Forked [LavaLust](https://github.com/ronmarasigan/LavaLust)
 
 
+## Learn more?
+
+[laravel11-auth-system](https://github.com/wilfredpine/laravel11-auth-system)
+
+[expressjs-auth-system](https://github.com/wilfredpine/expressjs-auth-system)
+
+[django-auth-system](https://github.com/wilfredpine/django-auth-system)
