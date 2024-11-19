@@ -33,6 +33,7 @@ Starred & Forked [lavalust-auth-system](https://github.com/wilfredpine/lavalust-
 
 Subscribe at [confired-official](https://www.youtube.com/@confired-official/)
 
-
+Following [ronmarasigan](https://github.com/ronmarasigan)
+Starred & Forked [LavaLust](https://github.com/ronmarasigan/LavaLust)
 
 
