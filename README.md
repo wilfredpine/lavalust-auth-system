@@ -26,13 +26,12 @@ A sample implementation of built-in security features and authentication system 
 
 #### Thanks me by
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wilfredpine/wilfredpine)
+Follow [wilfredpine](https://github.com/wilfredpine/wilfredpine)
 
 Starred & Forked [lavalust-auth-system](https://github.com/wilfredpine/lavalust-auth-system)
 
-Subscribe [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@confired-official/)
+Subscribe at [confired-official](https://www.youtube.com/@confired-official/)
 
-![Followers](https://img.shields.io/github/followers/wilfredpine.svg?style=social&label=Follow&maxAge=2592000)
 
 
 
