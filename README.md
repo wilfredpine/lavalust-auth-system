@@ -22,11 +22,12 @@ A sample implementation of built-in security features and authentication system 
 ## Want to learn PHP & LavaLust?
 
 [LavaLust Tutorial](https://github.com/ronmarasigan/LavaLust)
+
 [YouTube](https://www.youtube.com/@confired-official/)
 
 ## Thanks me by
 
-Follow [wilfredpine](https://github.com/wilfredpine/wilfredpine)
+Following [wilfredpine](https://github.com/wilfredpine/wilfredpine)
 
 Starred & Forked [lavalust-auth-system](https://github.com/wilfredpine/lavalust-auth-system)
 
